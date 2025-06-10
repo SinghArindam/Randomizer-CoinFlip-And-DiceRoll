@@ -8,4 +8,9 @@ Experience the ultimate in randomization technology with our coin flip and dice 
 ---
 ## Screenshots
 ---
-![Website Screenshot](assets/image.png)
+### Desktop View
+![Desktop Website Screenshot](assets/image.png)
+
+### Mobile View
+![Mobile Website Screenshot](assets/image-1.png)
+
