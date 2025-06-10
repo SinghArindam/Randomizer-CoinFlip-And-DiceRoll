@@ -3,3 +3,9 @@ Experience the ultimate in randomization technology with our coin flip and dice 
 
 
 [Live](https://singharindam.github.io/Randomizer-CoinFlip-And-DiceRoll/src/)
+
+
+---
+## Screenshots
+---
+![Website Screenshot](image.png)
