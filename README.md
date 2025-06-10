@@ -8,4 +8,4 @@ Experience the ultimate in randomization technology with our coin flip and dice 
 ---
 ## Screenshots
 ---
-![Website Screenshot](image.png)
+![Website Screenshot](assets/image.png)
